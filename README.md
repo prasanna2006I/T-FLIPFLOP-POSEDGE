@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/6bb8b9a3-798d-48ff-a69b-6c4aa0cc9a7a)# T-FLIPFLOP-POSEDGE
-
 **AIM:**
 
 To implement  T flipflop using verilog and validating their functionality using their functional tables
